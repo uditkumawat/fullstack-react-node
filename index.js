@@ -5,8 +5,7 @@ const app = express();
 
 app.get('/',(req,res)=>{
 
-    let udit = "udit";
-    res.send({hi:'there'});
+    res.send({hi:'Hello udit '});
 });
 
 const PORT = process.env.PORT || 5000;
