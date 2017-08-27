@@ -1,2 +1,4 @@
 node_modules
 config/dev.js
+dev.js
+prod.js
